@@ -1,0 +1,17 @@
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Persistance.deps.json
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Persistance.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Persistance.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Application.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Application.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\bin\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.csproj.AssemblyReference.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.AssemblyInfoInputs.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.AssemblyInfo.cs
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArc.758C7FFF.Up2Date
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\refint\OnionArchitecture.Persistance.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\OnionArchitecture.Persistance.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Infrastructure\OnionArchitecture.Persistance\obj\Debug\net8.0\ref\OnionArchitecture.Persistance.dll

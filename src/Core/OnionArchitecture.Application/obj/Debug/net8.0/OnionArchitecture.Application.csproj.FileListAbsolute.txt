@@ -1,0 +1,15 @@
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.deps.json
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Application.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Domain.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\bin\Debug\net8.0\OnionArchitecture.Domain.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.AssemblyInfo.cs
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArc.8A92E527.Up2Date
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\refint\OnionArchitecture.Application.dll
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\OnionArchitecture.Application.pdb
+C:\Users\Onur Furkan Meral\source\repos\OnionArchitecture_Demo\src\Core\OnionArchitecture.Application\obj\Debug\net8.0\ref\OnionArchitecture.Application.dll

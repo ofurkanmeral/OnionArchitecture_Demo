@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+5OKShTyIK0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.0\\microsoft.extensions.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\Onur Furkan Meral\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

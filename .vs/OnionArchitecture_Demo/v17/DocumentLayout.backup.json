@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\infrastructure\\onionarchitecture.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|solutionrelative:src\\infrastructure\\onionarchitecture.persistance\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\wrapper\\httpclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\wrapper\\httpclientwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\infrastructure\\onionarchitecture.persistance\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|solutionrelative:src\\infrastructure\\onionarchitecture.persistance\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\serviceregistiration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\infrastructure\\onionarchitecture.persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|solutionrelative:src\\infrastructure\\onionarchitecture.persistance\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\interfaces\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.domain\\onionarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:src\\core\\onionarchitecture.domain\\onionarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\infrastructure\\onionarchitecture.persistance\\repositories\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF645BE2-9CAB-4359-837A-07B033B2F04C}|src\\Infrastructure\\OnionArchitecture.Persistance\\OnionArchitecture.Persistance.csproj|solutionrelative:src\\infrastructure\\onionarchitecture.persistance\\repositories\\genericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\parameters\\requestparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\interfaces\\repository\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\interfaces\\repository\\igenericrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\wrapper\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\wrapper\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\wrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\wrapper\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\wrapper\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\wrapper\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.application\\exceptions\\validateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69936FB-F7AB-49E6-8FA7-758384D89E65}|src\\Core\\OnionArchitecture.Application\\OnionArchitecture.Application.csproj|solutionrelative:src\\core\\onionarchitecture.application\\exceptions\\validateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:src\\core\\onionarchitecture.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|c:\\users\\onur furkan meral\\source\\repos\\onionarchitecture_demo\\src\\core\\onionarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61CF81C9-9C4C-4C1C-A7D3-30C36125FFA4}|src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj|solutionrelative:src\\core\\onionarchitecture.domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchitecture.Persistance\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\ServiceRegistiration.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchitecture.Persistance\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:17:34.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnionArchitecture.Domain",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Domain\\OnionArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T19:39:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceRegistiration.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\ServiceRegistiration.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\ServiceRegistiration.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\ServiceRegistiration.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\ServiceRegistiration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:12:26.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:39:14.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:10:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpClientWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\HttpClientWrapper.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Wrapper\\HttpClientWrapper.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\HttpClientWrapper.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Wrapper\\HttpClientWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:02:39.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchitecture.Persistance\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchitecture.Persistance\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:25:03.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\GenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\GenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\GenericRepositoryAsync.cs",
+              "RelativeToolTip": "src\\Infrastructure\\OnionArchitecture.Persistance\\Repositories\\GenericRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:33:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Parameters\\RequestParameter.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Parameters\\RequestParameter.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Parameters\\RequestParameter.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Parameters\\RequestParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:17:08.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IGenericRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IGenericRepositoryAsync.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IGenericRepositoryAsync.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Interfaces\\Repository\\IGenericRepositoryAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T19:13:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PagedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\PagedResponse.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Wrapper\\PagedResponse.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\PagedResponse.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Wrapper\\PagedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:02:32.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Wrapper\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\ServiceResponse.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Wrapper\\ServiceResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:58:37.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Wrapper\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Wrapper\\BaseResponse.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Wrapper\\BaseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:56:58.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValidateException.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Exceptions\\ValidateException.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Application\\Exceptions\\ValidateException.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Application\\Exceptions\\ValidateException.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Application\\Exceptions\\ValidateException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:51:11.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:49:01.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\OnionArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\OnionArchitecture_Demo\\src\\Core\\OnionArchitecture.Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\OnionArchitecture.Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:47:37.42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
